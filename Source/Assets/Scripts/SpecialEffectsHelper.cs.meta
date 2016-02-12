@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c0ca69673a3f8c348ba9da510863ae14
+timeCreated: 1455065010
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SmokeEffect: {fileID: 19860680, guid: 195ef73e22ef425429c0ae6be3527489, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
